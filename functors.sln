@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functors", "functors\functors.vcxproj", "{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Debug|x64.ActiveCfg = Debug|x64
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Debug|x64.Build.0 = Debug|x64
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Debug|x86.Build.0 = Debug|Win32
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Release|x64.ActiveCfg = Release|x64
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Release|x64.Build.0 = Release|x64
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Release|x86.ActiveCfg = Release|Win32
+		{B9A3FDF7-243F-4C6B-B82C-16D388E32A81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C10A6F-8BCE-43B0-93E8-B45B5BF64D6D}
+	EndGlobalSection
+EndGlobal
